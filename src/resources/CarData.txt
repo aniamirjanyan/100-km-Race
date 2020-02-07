@@ -1,0 +1,11 @@
+maker;model;type;speed;weight
+Mercedes;G-class;suv;220;2500
+Audi;A4;common;209;1500
+Acura;NSX;sport;320;1520
+Alfa Romeo;Giulia;common;280;1374
+Aston Martin;DBS;sport;339;1693
+Audi;A7;common;249;1890
+Bentley;S2 continental;common;180;1918
+BMW;M3 DTM;sport;299;1100
+Bugatti;Divo;sport;379;1961
+Buick;Enclave;suv;209;2300
